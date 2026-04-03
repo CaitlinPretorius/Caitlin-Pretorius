@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Caitlin Pretorius
 
-🎓 Diploma in Information (Stream: Infracstructure) Technology student at **Belgium Campus**  
+🎓 Diploma in Information (Stream: infrastructure) Technology student at **Belgium Campus**  
 📍 Pretoria, South Africa  
 🌱 Passionate about building tech that makes a difference
 
