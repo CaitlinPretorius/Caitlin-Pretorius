@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Caitlin Pretorius
 
-🎓 Diploma in Information Technology student at **Belgium Campus**  
+🎓 Diploma in Information (Stream: Infracstructure) Technology student at **Belgium Campus**  
 📍 Pretoria, South Africa  
 🌱 Passionate about building tech that makes a difference
 
@@ -46,7 +46,7 @@ I’m a motivated and curious tech enthusiast currently studying towards a Diplo
 
 ## 🧠 Fun Fact
 
-> "I'm not afraid to ask questions, break things, or try again — it's all part of how I learn best!" 💡
+> I'm not afraid to ask questions, break things, or try again — it's all part of how I learn best!
 
 ---
 
